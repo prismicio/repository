@@ -5,7 +5,7 @@
 ```
 <repository>
   <id>prismicio</id>
-  <name>prismic.io Repository</name>
+  <name>Prismic.io kits</name>
   <url>https://github.com/prismicio/repository/raw/master/maven/</url>
 </repository>
 ```
